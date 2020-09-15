@@ -1,4 +1,4 @@
-# Eelective Refinement Network for High Performance Face Detection
+# Selective Refinement Network for High Performance Face Detection
 this is a third-party training model using MXNet, the official is [here](https://github.com/ChiCheng123/SRN/blob/master/README.md#selective-refinement-network-for-high-performance-face-detection)
 ## Data
 1.Download annotations(face bounding boxes) from [baidu cloud](https://pan.baidu.com/s/1Laby0EctfuJGgGMgRRgykA) or [dropbox](http://dropbox.com/s/7j70r3eeepe4r2g/retinaface_gt_v1.1.zip?dl=0) provided by [RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace).</br>
