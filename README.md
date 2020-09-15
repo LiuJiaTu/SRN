@@ -1,2 +1,2 @@
-＃用于高性能人脸检测的选择性优化网络
+＃Selective Refinement Network for High Performance Face Detection
 ＃data
