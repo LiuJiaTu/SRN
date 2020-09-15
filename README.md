@@ -23,7 +23,7 @@ this is a third-party training model using MXNet, the official is [here](https:/
 ## Train
 1.Download ImageNet pretrained models and put them into `model/`(these models are not for detection testing/inferencing but training and parameters initialization).
     
-　　ImageNet ResNet50 ([baidu cloud](https://pan.baidu.com/s/1nzQ6CzmdKFzg8bM8ChZFQg) and [dropbox](https://www.dropbox.com/s/8ypcra4nqvm32v6/imagenet-resnet-152.zip?dl=0)).</br>
+　　ImageNet ResNet50 ([baidu cloud](https://pan.baidu.com/s/1WAkU9ZA_j-OmzO-sdk9whA) and [dropbox](https://www.dropbox.com/s/48b850vmnaaasfl/imagenet-resnet-50.zip?dl=0)).</br>
 　　ImageNet ResNet152 ([baidu cloud](https://pan.baidu.com/s/1nzQ6CzmdKFzg8bM8ChZFQg) and [dropbox](https://www.dropbox.com/s/8ypcra4nqvm32v6/imagenet-resnet-152.zip?dl=0)).　Provided by [RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace).</br>
 
 2.Start training with `CUDA_VISIBLE_DEVICES='0,1,2,3' python -u train.py`.(more configuration in `rcnn/config.py`.)
