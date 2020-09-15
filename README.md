@@ -25,6 +25,7 @@ this is third-party train models useing mxnet,the official is [here](https://git
     
 　　ImageNet ResNet50 ([baidu cloud](https://pan.baidu.com/s/1nzQ6CzmdKFzg8bM8ChZFQg) and [dropbox](https://www.dropbox.com/s/8ypcra4nqvm32v6/imagenet-resnet-152.zip?dl=0)).</br>
 　　ImageNet ResNet152 ([baidu cloud](https://pan.baidu.com/s/1nzQ6CzmdKFzg8bM8ChZFQg) and [dropbox](https://www.dropbox.com/s/8ypcra4nqvm32v6/imagenet-resnet-152.zip?dl=0)).　Provided by [RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace).</br>
+
 2.Start training with `CUDA_VISIBLE_DEVICES='0,1,2,3' python -u train.py`.(more configuration in `rcnn/config.py`.)
 ## Test
 Implement testing codes later.
